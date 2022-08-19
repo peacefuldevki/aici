@@ -1,5 +1,6 @@
 # frozen_string_literal: true
 
+require_relative '../spec/helper_patches/resource_helper.rb'
 require "aici"
 
 RSpec.configure do |config|

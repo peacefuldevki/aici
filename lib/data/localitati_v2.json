@@ -1,0 +1,79 @@
+[
+  {
+    "id": 1,
+    "nume": "Buftea",
+    "diacritice": "Buftea",
+    "judet": "Ilfov",
+    "auto": "IF",
+    "zip": 70000,
+    "populatie": 19202,
+    "lat": 44.56297439999999,
+    "lng": 25.9388214
+  },
+  {
+    "id": 2,
+    "nume": "Buciumeni",
+    "diacritice": "Buciumeni",
+    "judet": "Ilfov",
+    "auto": "IF",
+    "zip": 70000,
+    "populatie": 2976,
+    "lat": 44.5460939,
+    "lng": 25.9574846
+  },
+  {
+    "id": 3,
+    "nume": "Otopeni",
+    "diacritice": "Otopeni",
+    "judet": "Ilfov",
+    "auto": "IF",
+    "zip": 75100,
+    "populatie": 12540,
+    "lat": 44.56718739999999,
+    "lng": 26.0835113
+  },
+  {
+    "id": 4,
+    "nume": "Odaile",
+    "diacritice": "Od\u0103ile",
+    "judet": "Ilfov",
+    "auto": "IF",
+    "zip": 75100,
+    "populatie": 1321,
+    "lat": 44.5435944,
+    "lng": 26.0487028
+  },
+  {
+    "id": 7501,
+    "nume": "Huta-Certeze",
+    "diacritice": "Huta-Certeze",
+    "judet": "Satu Mare",
+    "auto": "SM",
+    "zip": 447101,
+    "populatie": 1074,
+    "lat": 47.923291,
+    "lng": 23.4923098
+  },
+  {
+    "id": 7502,
+    "nume": "Moiseni",
+    "diacritice": "Moi\u015feni",
+    "judet": "Satu Mare",
+    "auto": "SM",
+    "zip": 447102,
+    "populatie": 1391,
+    "lat": 47.9284568,
+    "lng": 23.4684019
+  },
+  {
+    "id": 7503,
+    "nume": "Craidorolt",
+    "diacritice": "Craidorol\u0163",
+    "judet": "Satu Mare",
+    "auto": "SM",
+    "zip": 447105,
+    "populatie": 1063,
+    "lat": 47.6134925,
+    "lng": 22.7028184
+  }
+]
